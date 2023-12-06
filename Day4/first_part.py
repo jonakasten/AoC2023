@@ -1,4 +1,3 @@
-
 with open("input.txt", "r") as cards:
     total_sum = 0
     for card in cards:
